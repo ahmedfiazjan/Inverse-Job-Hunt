@@ -1,4 +1,4 @@
-# LinkedIn No-Apply Extension
+# Inverse Job Hunt Extension
 
 🚫 Stop applying, start building! This Chrome extension is your intervention buddy that helps you focus on creating instead of endlessly applying to jobs that require 20 years of experience in a 5-year-old technology.
 
